@@ -3,3 +3,8 @@ uvicorn[standard]
 pillow
 torch
 pandas
+opencv-python
+requests
+ultralytics
+seaborn
+python-multipart
